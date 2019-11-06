@@ -22,3 +22,13 @@ h1 {
 .rome {
   background-image: url('../images/rome.jpg');
 }
+.preview {
+  width: 400px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+h1, .emphasis {
+  font-family: Helvetica;
+  text-align: center;
+  text-transform: uppercase;
+}
