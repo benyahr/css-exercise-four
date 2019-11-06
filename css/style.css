@@ -10,15 +10,15 @@ body {
 h1 {
   padding-bottom: 50%;
 }
-.preview-baku {
-  background-image: url(/images/baku.jpg);
+.baku {
+  background-image: url('../images/baku.jpg');
 }
-.preview-london {
-  background-image: url(/images/london.png);
+.london {
+  background-image: url('../images/london.png');
 }
-.preview-madrid {
-  background-image: url(/images/madrid.jpg);
+.madrid {
+  background-image: url('../images/madrid.jpg');
 }
-.preview-rome {
-  background-image: url(/images/rome.jpg);
+.rome {
+  background-image: url('../images/rome.jpg');
 }
