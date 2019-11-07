@@ -9,10 +9,9 @@ body {
   margin: 0 auto;
   width: 420px;
   font-size: 200%;
+  background-color: lightgrey;
 }
-h1 {
-  padding-bottom: 50%;
-}
+
 .baku {
   background-image: url('../images/baku.jpg');
 }
@@ -29,9 +28,17 @@ h1 {
   width: 400px;
   background-size: cover;
   background-repeat: no-repeat;
+  padding-bottom: 20%;
 }
 h1 {
-  font-family: Helvetica;
   text-align: center;
+  font-family: sans-serif;
   text-transform: uppercase;
+  padding-bottom: 10%;
+}
+.preview h1 {
+  text-align: left;
+  font-family: serif;
+  text-transform: capitalize;
+  padding-bottom: 50%
 }
